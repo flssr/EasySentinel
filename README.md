@@ -1,7 +1,8 @@
-# EasySentinel
+# EasySentinel 0.0.1
 A GUI program can help beginners start Sentinel more conveniently.
 
 ## brief description
+The entire project is built using tkinter and Python 3.
 The entire program was built using Trae.
 Please wait for the subsequent update plan.
 
