@@ -1,10 +1,9 @@
-# EasySentinel 0.0.1
-A GUI program can help beginners start Sentinel more conveniently.
+# EasySentinel ver 0.0.1
+这是一个帮助初学者快速启动Sentinel的GUI程序
+它可以替代原本需要在控制台输入命令从而启动Sentinel的方式
 
-## brief description
-The entire project is built using tkinter and Python 3.
-The entire program was built using Trae.
-Please wait for the subsequent update plan.
+## 简述
+整个项目用到了Python3 和 tkinter。所有开发在Trae辅助下完成
 
-## How to use？
-Please place EasySentinel.exe and sentinel-dashboard.jar in the same dir, and then simply click to use.
+## 如何使用？
+将exe可执行文件和sentinel-dashboard.jar放在同一目录下，即可点击使用
